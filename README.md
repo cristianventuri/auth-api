@@ -1,1 +1,1 @@
-npx prisma studio
+
